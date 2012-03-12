@@ -31,7 +31,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
-  <project path="device/htc/pyramid" name="intervigilium/android_device_htc_pyramid" remote="intervigilium" revision="ics-audio" />
+  <project path="device/htc/pyramid" name="intervigilium/android_device_htc_pyramid" remote="intervigilium" revision="ics" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -179,7 +179,7 @@
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="hardware/libhardware" name="intervigilium/android_hardware_libhardware" remote="intervigilium" revision="ics-chocolate" />
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <project path="hardware/libhardware_legacy" name="intervigilium/android_hardware_libhardware_legacy" remote="intervigilium" revision="ics-test" />
   <project path="hardware/msm7k" name="intervigilium/android_hardware_msm7k" remote="intervigilium" revision="ics-test" />
   <project path="hardware/qcom/display" name="intervigilium/android_hardware_qcom_display" remote="intervigilium" revision="ics-chocolate" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
