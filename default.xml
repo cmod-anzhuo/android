@@ -16,6 +16,10 @@
            fetch="https://github.com/"
            revision="ics-test" />
 
+  <remote  name="vorbeth"
+           fetch="https://github.com/"
+           revision="ics" />
+
   <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
